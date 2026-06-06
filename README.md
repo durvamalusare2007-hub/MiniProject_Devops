@@ -189,19 +189,7 @@ terraform plan
 7. **PR Comment** — posts plan result (✅ or ❌) as a GitHub PR comment
 8. **Fail gate** — exits with error if the plan failed
 
----
 
-## Prerequisites
-
-| Tool | Version | Projects |
-|------|---------|---------|
-| [Terraform](https://developer.hashicorp.com/terraform/install) | >= 1.7.0 | 1, 6 |
-| [Docker](https://docs.docker.com/get-docker/) | Latest | 2, 4, 5 |
-| [Docker Compose](https://docs.docker.com/compose/install/) | v2+ | 4 |
-| [Python](https://www.python.org/downloads/) | >= 3.9 | 3, 5 |
-| [pytest](https://pytest.org/) | Latest | 3 |
-
----
 
 ## Learning Path
 
