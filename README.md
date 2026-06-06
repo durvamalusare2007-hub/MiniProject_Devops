@@ -2,20 +2,6 @@
 
 A collection of 6 hands-on mini projects covering core DevOps concepts — from Infrastructure as Code and containerization to CI/CD pipelines and automated testing.
 
----
-
-## Projects Overview
-
-| # | Project | Tech Stack | Key Concept |
-|---|---------|-----------|-------------|
-| 1 | Terraform Local File Demo | Terraform, HCL | Infrastructure as Code (IaC) basics |
-| 2 | Nginx Docker + CI Pipeline | Docker, Nginx, GitHub Actions | Containerization + CI/CD |
-| 3 | Python Calculator with Tests | Python, Pytest | Unit Testing |
-| 4 | Multi-Service Docker Compose | Docker Compose, Nginx | Multi-container orchestration |
-| 5 | Python Docker App | Docker, Python | Simple containerized application |
-| 6 | Terraform IaC + CI/CD Lab | Terraform, GitHub Actions | IaC + full CI/CD pipeline |
-
----
 
 ## MiniProject 1 — Terraform Local File Demo
 
